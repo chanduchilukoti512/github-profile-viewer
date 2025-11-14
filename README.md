@@ -55,6 +55,9 @@ All data is fetched live from GitHub and updates instantly.
 
 ---
 
+## 🚀 Live Demo
+🔗 https://chanduchilukoti512.github.io/github-profile-viewer/
+
 ⭐ If you like this project, please give it a star — it motivates me to build more! ⭐
 
 ## 🙌 Contributions
